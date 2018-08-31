@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: a805fc2171899f5488da29149f878549
+timeCreated: 1468833233
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BunnyIdleSheet_0
+    21300002: BunnyIdleSheet_1
+    21300004: BunnyIdleSheet_2
+    21300006: BunnyIdleSheet_3
+    21300008: BunnyIdleSheet_4
+    21300010: BunnyIdleSheet_5
+    21300012: BunnyIdleSheet_6
+    21300014: BunnyIdleSheet_7
+    21300016: BunnyIdleSheet_8
+    21300018: BunnyIdleSheet_9
+    21300020: BunnyIdleSheet_10
+    21300022: BunnyIdleSheet_11
+    21300024: BunnyIdleSheet_12
+    21300026: BunnyIdleSheet_13
+    21300028: BunnyIdleSheet_14
+    21300030: BunnyIdleSheet_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 185
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BunnyIdleSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 82}
+        - {x: 23, y: 86}
+        - {x: -2, y: 86}
+        - {x: -88, y: -2}
+        - {x: -88, y: -87}
+        - {x: 35, y: -87}
+        - {x: 40, y: -86}
+        - {x: 61, y: -81}
+        - {x: 88, y: 7}
+        - {x: 88, y: 33}
+    - name: BunnyIdleSheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 86}
+        - {x: -88, y: -1}
+        - {x: -88, y: -87}
+        - {x: 64, y: -87}
+        - {x: 88, y: -8}
+        - {x: 88, y: 37}
+        - {x: 32, y: 86}
+    - name: BunnyIdleSheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 82}
+        - {x: 4, y: 82}
+        - {x: -88, y: 2}
+        - {x: -88, y: -87}
+        - {x: 58, y: -87}
+        - {x: 88, y: -44}
+        - {x: 88, y: 41}
+        - {x: 73, y: 56}
+    - name: BunnyIdleSheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 52}
+        - {x: 16, y: 76}
+        - {x: -2, y: 76}
+        - {x: -7, y: 70}
+        - {x: -4, y: 54}
+        - {x: -69, y: 28}
+        - {x: -88, y: -17}
+        - {x: -88, y: -84}
+        - {x: -85, y: -87}
+        - {x: 31, y: -87}
+        - {x: 40, y: -86}
+        - {x: 61, y: -81}
+        - {x: 88, y: 10}
+        - {x: 88, y: 32}
+    - name: BunnyIdleSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 82}
+        - {x: 4, y: 82}
+        - {x: -88, y: 2}
+        - {x: -88, y: -87}
+        - {x: 58, y: -87}
+        - {x: 88, y: -44}
+        - {x: 88, y: 41}
+        - {x: 73, y: 56}
+    - name: BunnyIdleSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 86}
+        - {x: -88, y: -1}
+        - {x: -88, y: -87}
+        - {x: 64, y: -87}
+        - {x: 88, y: -8}
+        - {x: 88, y: 37}
+        - {x: 32, y: 86}
+    - name: BunnyIdleSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 85}
+        - {x: -88, y: 56}
+        - {x: -88, y: -87}
+        - {x: 63, y: -87}
+        - {x: 88, y: -7}
+        - {x: 88, y: 42}
+        - {x: 55, y: 85}
+    - name: BunnyIdleSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 86}
+        - {x: -88, y: 40}
+        - {x: -88, y: -81}
+        - {x: -83, y: -87}
+        - {x: 38, y: -87}
+        - {x: 67, y: -85}
+        - {x: 88, y: -9}
+        - {x: 88, y: 45}
+        - {x: 65, y: 86}
+    - name: BunnyIdleSheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 81}
+        - {x: 23, y: 85}
+        - {x: -2, y: 85}
+        - {x: -88, y: -3}
+        - {x: -88, y: -88}
+        - {x: 35, y: -88}
+        - {x: 40, y: -87}
+        - {x: 61, y: -82}
+        - {x: 88, y: 6}
+        - {x: 88, y: 32}
+    - name: BunnyIdleSheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 85}
+        - {x: -88, y: 39}
+        - {x: -88, y: -82}
+        - {x: -83, y: -88}
+        - {x: 38, y: -88}
+        - {x: 67, y: -86}
+        - {x: 88, y: -10}
+        - {x: 88, y: 44}
+        - {x: 65, y: 85}
+    - name: BunnyIdleSheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 81}
+        - {x: 4, y: 81}
+        - {x: -88, y: 1}
+        - {x: -88, y: -88}
+        - {x: 58, y: -88}
+        - {x: 88, y: -45}
+        - {x: 88, y: 40}
+        - {x: 73, y: 55}
+    - name: BunnyIdleSheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 51}
+        - {x: 16, y: 75}
+        - {x: -2, y: 75}
+        - {x: -7, y: 69}
+        - {x: -4, y: 53}
+        - {x: -69, y: 27}
+        - {x: -88, y: -18}
+        - {x: -88, y: -85}
+        - {x: -85, y: -88}
+        - {x: 31, y: -88}
+        - {x: 40, y: -87}
+        - {x: 61, y: -82}
+        - {x: 88, y: 9}
+        - {x: 88, y: 31}
+    - name: BunnyIdleSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 81}
+        - {x: 4, y: 81}
+        - {x: -88, y: 1}
+        - {x: -88, y: -88}
+        - {x: 58, y: -88}
+        - {x: 88, y: -45}
+        - {x: 88, y: 40}
+        - {x: 73, y: 55}
+    - name: BunnyIdleSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 81}
+        - {x: 4, y: 81}
+        - {x: -88, y: 1}
+        - {x: -88, y: -88}
+        - {x: 58, y: -88}
+        - {x: 88, y: -45}
+        - {x: 88, y: 40}
+        - {x: 73, y: 55}
+    - name: BunnyIdleSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 51}
+        - {x: 16, y: 75}
+        - {x: -2, y: 75}
+        - {x: -7, y: 69}
+        - {x: -4, y: 53}
+        - {x: -69, y: 27}
+        - {x: -88, y: -18}
+        - {x: -88, y: -85}
+        - {x: -85, y: -88}
+        - {x: 31, y: -88}
+        - {x: 40, y: -87}
+        - {x: 61, y: -82}
+        - {x: 88, y: 9}
+        - {x: 88, y: 31}
+    - name: BunnyIdleSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 81}
+        - {x: 4, y: 81}
+        - {x: -88, y: 1}
+        - {x: -88, y: -88}
+        - {x: 58, y: -88}
+        - {x: 88, y: -45}
+        - {x: 88, y: 40}
+        - {x: 73, y: 55}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
